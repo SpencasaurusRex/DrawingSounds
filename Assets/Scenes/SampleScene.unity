@@ -332,7 +332,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96d68d4a3b3dd304b9eb07ce171052fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Frequency: 500
+  Frequency: 200
 --- !u!4 &1040178577
 Transform:
   m_ObjectHideFlags: 0
